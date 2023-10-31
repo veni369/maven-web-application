@@ -92,14 +92,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.92.61.57:8181/mylandmarktech/repository/tesla-releases/</url>
+	      <name>icicibank Releases Nexus Repository</name>
+	      <url>http://13.211.32.9:9980/veni/repository/icicibank-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.92.61.57:8181/mylandmarktech/repository/tesla-snapshots/</url>
+	      <name>icicibank Snapshot Nexus Repository </name>
+	      <url>http://13.211.32.9:9980/veni/repository/icicibank-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
